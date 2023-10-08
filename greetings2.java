@@ -1,7 +1,4 @@
-package JavaWorkshop;
-
 import java.util.Scanner;
-
 public class greetings2 {
 
     public static void main(String[] args) {

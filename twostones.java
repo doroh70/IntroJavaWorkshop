@@ -1,5 +1,3 @@
-package JavaWorkshop;
-
 import java.util.Scanner;
 
 public class twostones {
